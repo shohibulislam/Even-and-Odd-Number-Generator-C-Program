@@ -15,19 +15,19 @@ This simple C program allows users to generate all even or odd numbers within a 
    - Loops through the range with a step of 2 to print even or odd numbers.
 
 ## Sample Output
-Type
-1 for even numbers
-2 for an odd number
-: 2
-Where to start and end?
-Type Start and End Number: 4 15
-Odd numbers from 5 to 15 are:
-5
-7
-9
-11
-13
-15
+   -Type
+   -1 for even numbers
+   -2 for an odd number
+   -: 2
+   -Where to start and end?
+   -Type Start and End Number: 4 15
+   -Odd numbers from 5 to 15 are:
+   5
+   7
+   9
+   11
+   13
+   15
 
 
 ## Files

@@ -2,7 +2,7 @@
 
 This simple C program allows users to generate all even or odd numbers within a specified range. It automatically adjusts the start number if it's not evenly divisible by 2, based on the user's choice. Useful for beginners learning loops and conditionals in C.
 
-## 🛠How It Works
+## How It Works
 
 1. User selects:
    - `1` for Even numbers
@@ -14,7 +14,7 @@ This simple C program allows users to generate all even or odd numbers within a 
    - Adjusts the start value if needed.
    - Loops through the range with a step of 2 to print even or odd numbers.
 
-## ✅ Sample Output
+## Sample Output
 
 ```
 Type
@@ -36,7 +36,7 @@ Odd numbers from 5 to 15 are:
 
 - `evenodd.c` — Complete program source code
 
-## ⚙Requirements
+## Requirements
 
 - C compiler (like `gcc`)
 - Works with Code::Blocks, VS Code, Dev C++, or any terminal

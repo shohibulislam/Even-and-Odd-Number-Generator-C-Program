@@ -1,12 +1,12 @@
 #include<stdio.h>
 int main(){
     int n, x, y, a, b, i, z;
-    printf("Type\n1 for even number\n2 for odd number\n: ");
+    printf("Enter\n1 for even number.\n2 for odd number.\n: ");
     scanf("%d",&n);
     switch (n)
     {
     case 1:
-        printf("Where to start and end?\nType Start and End Number: ");
+        printf("Where to start and end?\nEnter Start and End Number: ");
         scanf("%d %d", &x, &y);
         if(x%2==0){
             printf("Even number from %d to %d is:\n", x, y);
@@ -52,3 +52,4 @@ int main(){
         break;
     }
 }
+
